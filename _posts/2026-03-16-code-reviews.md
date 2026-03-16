@@ -4,7 +4,7 @@ date: 2026-03-16
 categories: great-abstraction-tragedy
 ---
 
-![Code review window](/res/code-review.webp)
+![Code reviews](/res/code-reviews.jpg)
 
 # 🚧 [The Great Abstraction Tragedy #4]
 
