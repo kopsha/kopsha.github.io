@@ -1,10 +1,10 @@
 ---
-title: "Automation Anxiety"
-date: 2025-11-10
+title: "Code Reviews"
+date: 2026-03-16
 categories: great-abstraction-tragedy
 ---
 
-![Code review window](/res/code-review.png)
+![Code review window](/res/code-review.webp)
 
 # 🚧 [The Great Abstraction Tragedy #4]
 
