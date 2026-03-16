@@ -36,7 +36,7 @@ The first comment arrives before anyone reads a line:
 The pipeline runs.  
 The linter finds a missing semicolon in code you didn't touch.  
 You fix it.  
-Now another check fails — *"expected 120 chars per line, found 121."*  
+Now another check fails — *"expected 120 chars per line, found 121"*.  
 You stare at it for a while,  
 then delete one adjective from a variable name.  
 Build green.  
@@ -47,7 +47,8 @@ The second wants a new abstraction layer.
 The third hasn't read the diff but feels compelled to say:
 
 > "LGTM 👍"
-> to appear *involved.*
+
+to appear *involved*.
 
 You spend more time defending the indentation  
 than explaining the algorithm.  
@@ -57,8 +58,8 @@ But the PR description is immaculate.
 
 ---
 
-We've turned *reviews* into *rituals.*  
-Not to find bugs — but to find belonging.  
+We've turned *reviews* into *rituals*.  
+Not to find bugs - but to find belonging.  
 A shared performance of correctness.  
 We debate naming conventions as if they were theology,  
 and treat merge approvals as social currency.
