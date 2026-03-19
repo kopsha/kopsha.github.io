@@ -91,4 +91,4 @@ and simply *know*.
 
 ---
 
-![Code Reviews](/res/code-reviews.jpg)
+![Code Reviews](/res/code-reviews.png)
