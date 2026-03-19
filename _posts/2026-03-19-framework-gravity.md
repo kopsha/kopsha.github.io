@@ -5,7 +5,7 @@ date: 2026-03-19
 categories: great-abstraction-tragedy
 ---
 
-![Framework Gravity](/res/gravity.jpg)
+![Framework Gravity](/res/gravity.png)
 
 # 🚧 [The Great Abstraction Tragedy #5]
 
