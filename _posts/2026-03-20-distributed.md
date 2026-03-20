@@ -6,7 +6,7 @@ date: 2026-03-20
 categories: great-abstraction-tragedy
 ---
 
-![Distributed](/res/distributed.png)
+![Distributed](/res/distributed.jpg)
 
 # 🚧 [The Great Abstraction Tragedy #6]
 
